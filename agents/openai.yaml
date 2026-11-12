@@ -1,0 +1,4 @@
+interface:
+  display_name: "去套话编辑"
+  short_description: "润色中英文文章、口播稿和说明文字，删去套话，保留原意和作者语气"
+  default_prompt: "使用 $write-edit-declutter-prose 润色下面的文字。请保留事实、限定条件和作者语气，直接给出改稿。"
